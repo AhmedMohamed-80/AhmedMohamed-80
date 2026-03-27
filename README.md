@@ -13,13 +13,12 @@
 ### ⚙️ Junior DevOps Engineer
 </div>
 
----
+
 
 ## 🧠 About Me
 
 > Junior DevOps Engineer with hands-on experience in **Docker**, **Kubernetes**, and **CI/CD pipelines** using Jenkins and GitHub Actions. Proficient in **Linux** and **AWS**, with a focus on automation and building reliable systems through self-driven projects and continuous learning.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -40,5 +39,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="50"/>
 </div>
-
----
