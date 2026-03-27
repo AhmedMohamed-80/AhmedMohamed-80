@@ -11,12 +11,6 @@
 
 
 ### ⚙️ Junior DevOps Engineer
-
-[![Email](https://img.shields.io/badge/Gmail-ahmedmohamed25831%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedmohamed25831@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Mohamed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-mohamed-78530525b)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Phone](https://img.shields.io/badge/Phone-01006408411-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:01006408411)
-
 </div>
 
 ---
